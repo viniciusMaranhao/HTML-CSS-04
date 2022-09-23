@@ -1,0 +1,21 @@
+@media (min-width: 700px){
+    main{
+        max-width: 1020px;
+        display: flex;
+        gap: 10rem;
+    }
+    body{
+        padding: 8rem;
+    }
+    main > div {
+        max-width: 484px;
+    }
+    ul li{
+        gap: 5.3rem;
+        max-width: center;
+        align-items: center;
+    }
+    ul {
+        margin-top: 4.9rem;
+    }
+}
