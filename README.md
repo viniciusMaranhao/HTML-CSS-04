@@ -7,8 +7,9 @@
 </div><br>
 
 ## Dificuldades:
-No projeto foi utilizado
-Media Query para responsividade.
-Display Flex
-Pseudo-classes
+No projeto foi utilizado<br>
+Media Query para responsividade.<br>
+Display Flex<br>
+Pseudo-classes<br>
+
 
