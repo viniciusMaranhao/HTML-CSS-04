@@ -6,8 +6,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
 
-## Dificuldades:
-No projeto foi utilizado<br>
+## No projeto foi utilizado<br>
 Media Query para responsividade.<br>
 Display Flex<br>
 Pseudo-classes<br>
